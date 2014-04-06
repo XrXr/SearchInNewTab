@@ -1,0 +1,9 @@
+{
+  "name": "search-in-new-tab",
+  "title": "Search in New Tab",
+  "id": "search-in-new-tab@xrxrxr",
+  "description": "Search in new tab only when current tab is not a new tab. Compatible with Omnibar.",
+  "author": "XrXrXr",
+  "license": "MPL 2.0",
+  "version": "1.0"
+}
