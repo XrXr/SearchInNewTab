@@ -5,5 +5,5 @@
   "description": "Search in new tab only when current tab is not a new tab. Compatible with Omnibar.",
   "author": "XrXrXr",
   "license": "MPL 2.0",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
